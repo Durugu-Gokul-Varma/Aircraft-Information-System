@@ -1,28 +1,62 @@
-# Aircraft Information System
+# ✈️ Aircraft Information System
 
-## Project Overview
+## 📖 Project Overview
 
-This project is developed using Python to store and display the technical specifications of the HAL Tejas Mk1A.
+The Aircraft Information System is a beginner-friendly Python project developed to store and display the technical specifications of the **HAL Tejas Mk1A**. This project was created while learning the fundamentals of Python programming and demonstrates the use of variables, data types, and the `print()` function in an Aeronautical Engineering application.
 
-## Aircraft
+---
 
-HAL Tejas Mk1A
+## 🚀 Features
 
-## Developer
+- Displays technical specifications of the HAL Tejas Mk1A
+- Uses Python variables to store aircraft data
+- Demonstrates different Python data types
+- Displays formatted output using the `print()` function
+- Beginner-friendly and easy to understand
 
-Durugu Gokul Varma
+---
 
-## Python Concepts Used
+## 🛠 Technologies Used
 
-- Variables
-- Data Types
-- print()
+- Python
+- Jupyter Notebook
+- GitHub
 
-## Future Improvements
+---
+
+## 📂 Project Structure
+
+```
+Aircraft-Information-System/
+│
+├── LICENSE
+├── README.md
+├── aircraft_information_system.ipynb
+└── output.png
+```
+
+---
+
+## 📸 Project Output
+
+![Aircraft Information System Output](output.png)
+
+---
+
+## 🔮 Future Improvements
 
 - User Input
 - Aircraft Comparison
 - Multiple Aircraft Database
 - File Handling
-- Graphical User Interface
+- Graphical User Interface (GUI)
 - AI Integration
+
+---
+
+## 👨‍💻 Developer
+
+**Durugu Gokul Varma**
+
+Bachelor of Engineering (Aeronautical Engineering)
+
